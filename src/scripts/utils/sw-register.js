@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 import { Workbox } from 'workbox-window';
 
 const swRegister = async () => {

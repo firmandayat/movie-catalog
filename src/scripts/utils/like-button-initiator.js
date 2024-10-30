@@ -1,4 +1,3 @@
-/*eslint-disable*/
 import FavoriteMovieIdb from '../data/favorite-movie-idb';
 import {
   createLikeButtonTemplate,

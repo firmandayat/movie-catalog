@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 import TheMovieDbSource from '../../data/themoviedb-source';
 import { createMovieItemTemplate } from '../templates/template-creator';
 

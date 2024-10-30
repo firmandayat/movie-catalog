@@ -1,4 +1,3 @@
-/* eslint-disable*/
 const WebSocketInitiator = {
   init(url) {
     const webSocket = new WebSocket(url);

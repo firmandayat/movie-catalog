@@ -1,4 +1,3 @@
-/* eslint-disable */
 import { openDB } from 'idb';
 import CONFIG from '../globals/config';
 
@@ -25,4 +24,4 @@ const FavoriteMovieIdb = {
   },
 };
 
-export default FavoriteMovieIdb
+export default FavoriteMovieIdb;

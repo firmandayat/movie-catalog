@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 import NowPlaying from '../views/pages/now-playing';
 import Upcoming from '../views/pages/upcoming';
 import Detail from '../views/pages/detail';
